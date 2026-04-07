@@ -7,8 +7,7 @@ type: Index
 position: Consumer
 access: 3rd-Party
 image: https://kinlane-productions.s3.amazonaws.com/apis-json/apis-json-logo.jpg
-tags:
-  - API
+tags: []
 created: '2025-05-02'
 modified: '2025-05-02'
 url: >-
@@ -21,8 +20,7 @@ apis:
       An API for developers to get information on over 4 million podcasts, 180 million
       episodes, and 1.5 million transcripts.
     humanURL: ' https://taddy.org/developers/podcast-api'
-    tags:
-      - API
+    tags: []
     properties:
       - type: Documentation
         url: ' https://taddy.org/developers/podcast-api'
