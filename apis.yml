@@ -1,8 +1,8 @@
 aid: podcast-api
 name: Podcast API
 description: >-
-  An API for developers to get information on over 4 million podcasts, 180
-  million episodes, and 1.5 million transcripts.  
+  An API for developers to get information on over 4 million podcasts, 180 million
+  episodes, and 1.5 million transcripts.
 type: Index
 position: Consumer
 access: 3rd-Party
@@ -18,8 +18,8 @@ apis:
   - aid: podcast-api:podcast-api
     name: Podcast API
     description: >-
-      An API for developers to get information on over 4 million podcasts, 180
-      million episodes, and 1.5 million transcripts.  
+      An API for developers to get information on over 4 million podcasts, 180 million
+      episodes, and 1.5 million transcripts.
     humanURL: ' https://taddy.org/developers/podcast-api'
     tags:
       - API
