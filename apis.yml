@@ -43,6 +43,8 @@ apis:
       - type: PodcastSeries
         url: https://taddy.org/developers/podcast-api/podcastseries
 common:
+  - type: LinkedIn
+    url: https://www.linkedin.com/company/listen-notes
   - type: Website
     url: https://taddy.org
   - type: Documentation
