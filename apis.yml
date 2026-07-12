@@ -45,6 +45,8 @@ apis:
   - url: graphql/podcast-api-graphql.md
     type: GraphQL
 common:
+- type: DomainSecurity
+  url: security/podcast-api-domain-security.yml
 - type: LinkedIn
   url: https://www.linkedin.com/company/listen-notes
 - type: Website
