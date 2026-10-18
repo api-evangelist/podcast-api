@@ -34,7 +34,6 @@ access: 3rd-Party
 image: https://kinlane-images.s3.amazonaws.com/shared/apis-json/icons/podcast-api.png
 tags:
 - Podcasts
-- Podcasting
 - Episodes
 - Transcripts
 - Search
